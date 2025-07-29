@@ -174,4 +174,4 @@ This project is indexed in the [Electric Capital Crypto Ecosystems Map](https://
 
 💡 _If you’re working in open source crypto, [submit your repository here](https://github.com/electric-capital/crypto-ecosystems) to be counted._
 
-Thank you for contributing and for reading the contribution guide! ❤️
+Thank you for contributing and for reading the contribution guide! ❤️.
